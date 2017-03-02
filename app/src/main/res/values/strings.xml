@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo Led Bluetooth DroidCon</string>
+    <string name="deviceList">Device List</string>
+    <string name="btnPaired">Show Paired Devices</string>
+    <string name="txtReceive">Received Data</string>
+    <string name="btn">Test</string>
+    <string name="title">Hi, Santo Domingo!</string>
+    <string name="bright">Brightness</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="disc">Disconnect</string>
+    <string name="access">Access Data</string>
+</resources>
